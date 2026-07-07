@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=kkk.EXE&fontSize=60&fontColor=FFFFFF&animation=twinkling)
 
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=riyoway&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nyorum&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 # Welcome to My GitHub Profile! 👋
 
