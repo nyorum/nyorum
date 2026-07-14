@@ -27,7 +27,7 @@
 </div>
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python&theme=dark)](https://skillicons.dev)
 
 
 
