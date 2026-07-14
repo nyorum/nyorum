@@ -27,7 +27,9 @@
 </div>
 
 ## 🛠️ Tech Stack
-Nothing ;;
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,figma&theme=dark)](https://skillicons.dev)
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
